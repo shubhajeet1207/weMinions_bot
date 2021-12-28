@@ -60,5 +60,5 @@ class myClient(discord.Client):
 
 client = myClient()
 # Bot login using the token
-client.run('OTI0OTQ4NTMwMTk4NjM0NTE2.Ycl_cg.BV-ZYj16yeghZbjxYMwuDyMdt70')
+client.run('my_bot_token')
 
